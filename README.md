@@ -1,4 +1,4 @@
-#Interview Prep 💼
+Interview Prep 💼
 Welcome to Interview Prep, a collaborative project aimed at sharpening our web development skills in preparation for technical interviews. This repository covers essential topics and practical examples from:
 
 ✅ HTML
