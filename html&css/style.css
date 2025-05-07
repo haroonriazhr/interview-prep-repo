@@ -1,0 +1,55 @@
+/* 
+🎨 What is CSS3?
+CSS3 is the latest version of CSS used for styling HTML content with new layouts, animations, and responsive designs.
+
+✅ Top Features of CSS3:
+Media Queries (Responsive Design):
+
+Adjust layout based on screen size
+
+Example:
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+}
+Flexbox and Grid Layouts:
+
+Powerful layout systems for building modern UIs
+
+Example (Flexbox):
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+Animations & Transitions:
+
+Add effects like fade, slide, bounce
+
+Example:
+.btn:hover {
+  background: blue;
+  transition: background 0.3s ease;
+}
+Border Radius & Shadows:
+
+Rounded corners and soft shadows
+
+Example:
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+Gradients & Background Effects:
+
+Linear and radial gradients for visual design
+
+Example:
+background: linear-gradient(to right, red, orange);
+Custom Fonts (Web Fonts):
+
+Use fonts from Google or self-hosted
+
+Example:
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*/
